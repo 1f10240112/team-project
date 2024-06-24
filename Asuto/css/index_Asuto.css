@@ -1,0 +1,8 @@
+.transparent-background {
+    background: url('https://www.veltra.com/jp/guide/wp-content/uploads/2023/10/pixta_43237886_M-768x512.jpg');
+    background-size: 1200px 750px;
+    background-repeat: no-repeat;
+    background-position:top;
+    background-color: darkgray;
+    background-attachment: fixed;
+}
